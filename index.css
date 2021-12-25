@@ -70,34 +70,32 @@
 }
 
 .card1 {
-  width: 230px;
-  height: 355px;
-  border:1.5px solid red;
-  position:relative;
-  left:120px;
-  border-radius:8px;
-  box-shadow: 5px 5px 10px gray;
-  
+    width: 230px;
+    height: 355px;
+    border:1.5px solid red;
+    position:relative;
+    left:120px;
+    border-radius:8px;
+    box-shadow: 5px 5px 10px gray;
 }
 .card2 {
-  width: 230px;
-  height: 355px;
-  border:1.5px solid red;
-  position:relative;
-  left:20px;
-  border-radius:8px;
-  box-shadow: 5px 5px 10px gray;
-  
+    width: 230px;
+    height: 355px;
+    border:1.5px solid red;
+    position:relative;
+    left:120px;
+    border-radius:8px;
+    box-shadow: 5px 5px 10px gray;
 }
 
 .card3 {
-  width: 230px;
-  height: 355px;
-  border:1.5px solid red;
-  position:relative;
-  right:80px;
-  border-radius:8px;
-  box-shadow: 5px 5px 10px gray;
+    width: 230px;
+    height: 355px;
+    border:1.5px solid red;
+    position:relative;
+    left:120px;
+    border-radius:8px;
+    box-shadow: 5px 5px 10px gray;
     
 }
 .card4 {
