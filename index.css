@@ -100,6 +100,24 @@
   box-shadow: 5px 5px 10px gray;
     
 }
+.card4 {
+    width: 230px;
+    height: 355px;
+    border:1.5px solid red;
+    position:relative;
+    left:120px;
+    border-radius:8px;
+    box-shadow: 5px 5px 10px gray;
+}
+.card5 {
+    width: 230px;
+    height: 355px;
+    border:1.5px solid red;
+    position:relative;
+    left:120px;
+    border-radius:8px;
+    box-shadow: 5px 5px 10px gray;
+}
 
 .div1 {
     position:absolute;
@@ -358,4 +376,51 @@
        border: 0px;
        height: 25vw;
    }
+   .card4
+   {
+       left: 30px;
+       width: 90%;
+       border: 0px;
+       height: 25vw;
+   }
+   .card5
+   {
+       left: 30px;
+       width: 90%;
+       border: 0px;
+       height: 25vw;
+   }
+   .pop-up
+   {
+       left: 100px;
+       width: 70%;
+   }
+
+   .line1
+   {
+       display: none;
+   }
+   .line2
+   {
+       display: none;
+   }
+   .card
+   {
+       left: 50px;
+   }
+   .arrow
+   {
+     left: 70px;
+     bottom: 160px;
+   }
+   #back
+   {
+       display: none;
+   }
+   .heading1
+   {
+       right: 250px;
+       
+   }
+  
 }
