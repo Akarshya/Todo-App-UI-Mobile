@@ -406,7 +406,8 @@
    }
    .card
    {
-       left: 50px;
+       width: 90%;
+       left: 30px;
    }
    .arrow
    {
@@ -419,7 +420,7 @@
    }
    .heading1
    {
-       right: 250px;
+       right: 350px;
        
    }
   
